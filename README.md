@@ -1,73 +1,125 @@
-# Welcome to your Lovable project
+# 🚀 UpSkillr – Workforce & Employability Intelligence Platform
 
-## Project info
+UpSkillr is a **career intelligence and employability analysis platform** designed to help students and professionals understand their skill gaps, role readiness, and company-specific preparation needs using **structured, deterministic logic**.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+Unlike generic AI chat tools, UpSkillr focuses on **measurable outcomes, explainable decisions, and guided upskilling paths**.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🎯 Problem Statement
 
-**Use Lovable**
+The job market evolves rapidly, but:
+- Students graduate without clarity on industry-required skills
+- Professionals upskill without structured direction
+- Skill mismatches reduce employability and career growth
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+There is no single platform that clearly answers:
+> *“Where do I stand today, and what exactly should I do next?”*
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 💡 Solution Overview
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+UpSkillr bridges the gap between **education and employability** by:
+- Comparing user skills with real job role requirements
+- Identifying missing and critical skills
+- Estimating employability risk
+- Providing structured, role- and company-focused preparation guidance
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+The platform uses **deterministic rule-based logic** for analysis and **AI only for explanation and roadmap generation**.
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## ✨ Key Features
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 🔍 Role-Based Skill Analysis
+- Select a target job role
+- Upload resume or manually select skills
+- View skill match percentage, missing skills, and employability risk
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 🧭 Exploration Mode
+- Deep dive into job roles before committing
+- View required skills, background expectations, and preparation timelines
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### 🔄 Skill-to-Job Matching
+- Discover suitable job roles based on current skills
+- Identify near-fit and stretch roles with missing skills highlighted
 
-**Edit a file directly in GitHub**
+### 🏢 Company-Specific Preparation
+- Structured preparation focus for companies like Google, Uber, Cisco, Accenture, and LinkedIn
+- Highlights DSA, system design, projects, or aptitude focus areas
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### 📄 Resume Intelligence
+- Upload PDF resume
+- Extract and normalize skills
+- Identify missing core skills and improvement areas
+- Editable extracted skills for accuracy
 
-**Use GitHub Codespaces**
+### 👥 Community & Mentorship
+- Expert guidance and career advice
+- Role- and domain-tagged discussions
+- Read-only expert insights (MVP)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### 📊 Personal Career Dashboard
+- Skill match progress
+- Employability risk trend
+- Resume status
+- Tracked jobs, internships, hackathons, and scholarships
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🧠 How It Works
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
+1. User selects a mode and provides skills (resume upload or manual input)
+2. Skills are extracted, normalized, and structured
+3. Rule-based engine compares skills with role requirements
+4. Missing skills and priorities are identified
+5. Employability risk is calculated
+
+---
+
+
+
+
+## 🧰 Tech Stack
+
+**Frontend**
+- React.js
 - Tailwind CSS
+- TypeScript
 
-## How can I deploy this project?
+**Data**
+- Static JSON / In-memory datasets (MVP)
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## ✅ Expected Outcome
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- Fully functional, demo-ready MVP
+- Resume upload supported across all modes
+- Clear differentiation from generic AI tools
+- Explainable, consistent, and measurable outputs
+
+---
+
+## 🏆 Why UpSkillr is Different
+
+- Deterministic logic over black-box AI
+- Measurable employability readiness
+- Role and company-focused preparation
+- Career decision support, not just advice
+
+---
+
+
+## 👩‍💻 Team & Hackathon
+
+Built as part of a hackathon under the **Open Innovation** track, focusing on solving real-world employability challenges with structured intelligence.
+
+---
+
+## 📄 License
+
+This project is intended for educational and demonstration purposes.
