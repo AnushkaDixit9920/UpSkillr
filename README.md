@@ -112,11 +112,17 @@ The platform uses **deterministic rule-based logic** for analysis and **AI only 
 - Career decision support, not just advice
 
 ---
-
+## Deployment
+[UpSkillr](https://up-skillr-hackathon.vercel.app/)
 
 ## 👩‍💻 Team & Hackathon
 
-Built as part of a hackathon under the **Open Innovation** track, focusing on solving real-world employability challenges with structured intelligence.
+Built as part of a Leanin IGDTUW hackathon "Leanin Hacks 7.0" under the **Open Innovation** track, focusing on solving real-world employability challenges with structured intelligence.
+
+Team Members
+- Alisha Kapoor (alishakapoor0907@gmail.com)
+- Anushka Dixit (anushka036btcseai24@igdtuw.ac.in)
+- BhawyaKumari (bhawya055@gmail.com)
 
 ---
 
